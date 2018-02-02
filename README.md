@@ -14,6 +14,13 @@ The code was tested on the objects found in the following [Freiberg RGB-D SLAM D
 * Sequence 'freiburg3_cabinet'
 * Sequence 'freiburg1_xyz'
 
+### Usage ###
+
+* The RGB and depth images are loaded in the GUI using the load dataset button. 
+* The object is selected by the user using the mouse. Note that the coordiate order of selecting the object is fixed clockwise.
+
+Details about the depth normalization used (to smoothen the data) is also available as a standalone matlab funcion at [Mathworks FileExchage Website](http://www.mathworks.com/matlabcentral/fileexchange/47830-kinect-depth-normalization)
+
 ### Hardware and Software requirements? ###
 
 The following software’s are required for use
