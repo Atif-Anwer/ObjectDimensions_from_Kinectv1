@@ -6,6 +6,8 @@ The repository is the front end GUI of calculating real world dimensions of obje
 Details of the working of the above algorithms can be found from our publication:
 [Calculating Real World Object Dimensions from Kinect RGB-D Image Using Dynamic Resolution](https://doi.org/10.1109/IBCAST.2015.7058504)
 
+[![Object dimension calculation](https://i.imgur.com/AZHszbq.png)]
+
 ### Dataset for testing ###
 
 The code was tested on the objects found in the following [Freiberg RGB-D SLAM Datasets](https://vision.in.tum.de/data/datasets/rgbd-dataset/download) 
@@ -47,5 +49,5 @@ A. Anwer, A. Baig, and R. Nawaz, “Calculating real world object dimensions fro
 
 For any query, please feel free to contact the following authors:
 
-* Atif Anwer[Google Scholar](https://scholar.google.com/citations?user=qsP3e2kAAAAJ) | [Website](https://www.atifanwer.xyz)
-* [Dr. Asim baigi](https://scholar.google.com/citations?user=5JhU_koAAAAJ&hl=en)
+* Atif Anwer [Google Scholar](https://scholar.google.com/citations?user=qsP3e2kAAAAJ) | [Website](https://www.atifanwer.xyz)
+* [Dr. Asim baig] (https://scholar.google.com/citations?user=5JhU_koAAAAJ&hl=en)
