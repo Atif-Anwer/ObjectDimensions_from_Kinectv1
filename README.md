@@ -57,4 +57,4 @@ A. Anwer, A. Baig, and R. Nawaz, “Calculating real world object dimensions fro
 For any query, please feel free to contact the following authors:
 
 * Atif Anwer [Google Scholar](https://scholar.google.com/citations?user=qsP3e2kAAAAJ) | [Website](https://www.atifanwer.xyz)
-* [Dr. Asim baig] (https://scholar.google.com/citations?user=5JhU_koAAAAJ&hl=en)
+* [Dr. Asim Baig](https://scholar.google.com/citations?user=5JhU_koAAAAJ&hl=en)
